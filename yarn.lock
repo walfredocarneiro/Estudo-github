@@ -1318,7 +1318,7 @@ git@^0.1.5:
   resolved "https://registry.yarnpkg.com/git/-/git-0.1.5.tgz#9ef62df93f851c27542143bf52d1c68b1017ca15"
   integrity sha1-nvYt+T+FHCdUIUO/UtHGixAXyhU=
   dependencies:
-    mime "1.2.9"
+    mime "1.4.1"
 
 glob-parent@^3.1.0:
   version "3.1.0"
@@ -1676,8 +1676,8 @@ micromatch@^3.1.10, micromatch@^3.1.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.2"
 
-mime@1.2.9:
-  version "1.2.9"
+mime@1.4.1:
+  version "1.4.1"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.2.9.tgz#009cd40867bd35de521b3b966f04e2f8d4d13d09"
   integrity sha1-AJzUCGe9Nd5SGzuWbwTi+NTRPQk=
 
